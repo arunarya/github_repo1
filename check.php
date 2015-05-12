@@ -1,4 +1,4 @@
 <?php
 echo "hi";
-echo "tj"; //check again man
+echo "tj"; //ok look now
 ?>
